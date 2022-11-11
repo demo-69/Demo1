@@ -85,3 +85,7 @@ GO
 -- Select rows from a Table or View '[SinhVien]' in schema '[dbo]'
 SELECT * FROM [dbo].[SinhVien]
 GO
+
+
+
+lllllllllllllllllllllllllllllll
