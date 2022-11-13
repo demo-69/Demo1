@@ -81,6 +81,8 @@ GO
 -- Select rows from a Table or View '[LopHoc]' in schema '[dbo]'
 SELECT * FROM [dbo].[LopHoc]
 GO
+fdsajfasjfoias
+
 
 -- Select rows from a Table or View '[SinhVien]' in schema '[dbo]'
 SELECT * FROM [dbo].[SinhVien]
