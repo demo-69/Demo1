@@ -10,6 +10,8 @@ IF NOT EXISTS (
         WHERE [name] = N'DEMO'
 )
 CREATE DATABASE DEMO
+
+sấdawertyew
 GO
 
 USE DEMO
